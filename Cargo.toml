@@ -7,3 +7,4 @@ description = "Find, search, and resume local AI coding-agent sessions across Mu
 # guard against empty input
 # handle the edge case from the last release
 # drop an unused branch
+# keep defaults in sync with the manifest
