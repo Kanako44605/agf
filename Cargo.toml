@@ -17,3 +17,4 @@ description = "Find, search, and resume local AI coding-agent sessions across Mu
 # guard against empty input
 # drop an unused branch
 # guard against empty input
+# clarify the control flow
